@@ -1,6 +1,6 @@
 # 创建博客
 项目地址：https://github.com/Meekdai/Gmeek [链接直达](https://github.com/Meekdai/Gmeek)
-1、【创建仓库】点击[通过模板创建仓库](https://github.com/new?template_name=Gmeek-template&template_owner=Meekdai)，建议仓库名称为XXX.github.io，其中XXX为你的github用户名。
+1、【创建仓库】点击[通过模板创建仓库]，建议仓库名称为XXX.github.io，其中XXX为你的github用户名。
 
 2、【启用Pages】在仓库的Settings中Pages->Build and deployment->Source下面选择Github Actions。
 
